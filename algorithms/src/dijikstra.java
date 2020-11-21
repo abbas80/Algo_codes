@@ -122,7 +122,6 @@ public class dijikstra {
         }
     }
 }
-
 class pairr
 {
     int e;
